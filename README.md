@@ -1,4 +1,4 @@
-### Namaste :bow::pray:
+### Namastê :bow::pray:
 
 ------------------------------
 I'm Andréa de Brito. Tracing my journey to become a Front-End Developer!
