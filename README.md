@@ -1,16 +1,17 @@
-### Hi there 👋
+### Namaste :bow::pray:
 
-<!--
-**andreadebrito/andreadebrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------
+I'm Andréa de Brito. Tracing my journey to become a Front-End Developer!
 
-Here are some ideas to get you started:
+- ⚡ Languages: HTML, CSS and Javascript (Lib: Bootstrap)
+- 🌱 I’m currently learning React and PHP
+- 💬 Fun fact: If I'm not found here, I'll most probably be cycling!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadebrito&layout=compact)](https://github.com/andreadebrito/github-readme-stats)
+
+📫 Reach me: 
+- [instagram.com/ deahdebrito]( https://www.instagram.com/deahdebrito/)
+- [linkedin.com/in/andréadebrito]( https://www.linkedin.com/in/andréadebrito/)
+
+⭐️ From [Andréa Brito]( https://github.com/andreadebrito)
+
