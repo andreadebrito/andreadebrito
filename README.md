@@ -1,7 +1,7 @@
 ### Namastê :bow::pray:
 
 ------------------------------
-I'm Andréa de Brito. Tracing my journey to become a Front-End Developer!
+##Tracing my journey to become a Front-End Developer!
 
 - ⚡ Languages: HTML, CSS and Javascript (Lib: Bootstrap)
 - 🌱 I’m currently learning React and PHP
